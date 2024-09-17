@@ -26,7 +26,7 @@ Sou apaixonado pela parte do back-end, com maior destaque à linguagem C# e ao e
 
 ## Contatos
 
- [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-lira-8096a320b/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:everton_henrique113@hotmail.com)
+ [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-lira-8096a320b/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:evertonhenrique87@gmail.com)
 
 
 
